@@ -11,7 +11,8 @@
     "Auvergne-Rhône-Alpes::Cantal",
     "Auvergne-Rhône-Alpes::Haute-Loire",
     "Auvergne-Rhône-Alpes::Allier",
-    "Auvergne-Rhône-Alpes::Ardèche"
+    "Auvergne-Rhône-Alpes::Ardèche",
+    "Auvergne-Rhône-Alpes::Savoie"
   ],
-  "total_scraped": 88560
+  "total_scraped": 91576
 }
