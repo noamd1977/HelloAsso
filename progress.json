@@ -4,7 +4,8 @@
     "Île-de-France::Essonne",
     "Île-de-France::Seine-et-Marne",
     "Île-de-France::Val-de-Marne",
-    "Île-de-France::Yvelines"
+    "Île-de-France::Yvelines",
+    "Île-de-France::Seine-Saint-Denis"
   ],
-  "total_scraped": 35259
+  "total_scraped": 43713
 }
