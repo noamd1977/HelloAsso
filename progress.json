@@ -22,7 +22,8 @@
     "Auvergne-Rhône-Alpes::Rhône",
     "Nouvelle-Aquitaine::Creuse",
     "Nouvelle-Aquitaine::Corrèze",
-    "Nouvelle-Aquitaine::Charente"
+    "Nouvelle-Aquitaine::Charente",
+    "Nouvelle-Aquitaine::Lot-et-Garonne"
   ],
-  "total_scraped": 140349
+  "total_scraped": 142195
 }
