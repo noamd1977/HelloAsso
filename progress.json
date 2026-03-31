@@ -7,7 +7,8 @@
     "Île-de-France::Yvelines",
     "Île-de-France::Seine-Saint-Denis",
     "Île-de-France::Hauts-de-Seine",
-    "Île-de-France::Paris"
+    "Île-de-France::Paris",
+    "Auvergne-Rhône-Alpes::Cantal"
   ],
-  "total_scraped": 82775
+  "total_scraped": 83433
 }
