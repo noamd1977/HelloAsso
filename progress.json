@@ -6,7 +6,8 @@
     "Île-de-France::Val-de-Marne",
     "Île-de-France::Yvelines",
     "Île-de-France::Seine-Saint-Denis",
-    "Île-de-France::Hauts-de-Seine"
+    "Île-de-France::Hauts-de-Seine",
+    "Île-de-France::Paris"
   ],
-  "total_scraped": 52969
+  "total_scraped": 82775
 }
