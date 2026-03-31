@@ -25,7 +25,8 @@
     "Nouvelle-Aquitaine::Charente",
     "Nouvelle-Aquitaine::Lot-et-Garonne",
     "Nouvelle-Aquitaine::Haute-Vienne",
-    "Nouvelle-Aquitaine::Dordogne"
+    "Nouvelle-Aquitaine::Dordogne",
+    "Nouvelle-Aquitaine::Deux-Sèvres"
   ],
-  "total_scraped": 146584
+  "total_scraped": 149246
 }
