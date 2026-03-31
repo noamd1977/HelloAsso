@@ -21,7 +21,8 @@
     "Auvergne-Rhône-Alpes::Isère",
     "Auvergne-Rhône-Alpes::Rhône",
     "Nouvelle-Aquitaine::Creuse",
-    "Nouvelle-Aquitaine::Corrèze"
+    "Nouvelle-Aquitaine::Corrèze",
+    "Nouvelle-Aquitaine::Charente"
   ],
-  "total_scraped": 138540
+  "total_scraped": 140349
 }
