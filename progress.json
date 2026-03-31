@@ -1,7 +1,8 @@
 {
   "completed_departments": [
     "Île-de-France::Val-d'Oise",
-    "Île-de-France::Essonne"
+    "Île-de-France::Essonne",
+    "Île-de-France::Seine-et-Marne"
   ],
-  "total_scraped": 12323
+  "total_scraped": 19870
 }
