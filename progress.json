@@ -19,7 +19,8 @@
     "Auvergne-Rhône-Alpes::Loire",
     "Auvergne-Rhône-Alpes::Haute-Savoie",
     "Auvergne-Rhône-Alpes::Isère",
-    "Auvergne-Rhône-Alpes::Rhône"
+    "Auvergne-Rhône-Alpes::Rhône",
+    "Nouvelle-Aquitaine::Creuse"
   ],
-  "total_scraped": 136684
+  "total_scraped": 137316
 }
