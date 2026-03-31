@@ -3,7 +3,8 @@
     "Île-de-France::Val-d'Oise",
     "Île-de-France::Essonne",
     "Île-de-France::Seine-et-Marne",
-    "Île-de-France::Val-de-Marne"
+    "Île-de-France::Val-de-Marne",
+    "Île-de-France::Yvelines"
   ],
-  "total_scraped": 27470
+  "total_scraped": 35259
 }
