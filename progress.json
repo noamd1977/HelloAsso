@@ -18,7 +18,8 @@
     "Auvergne-Rhône-Alpes::Drôme",
     "Auvergne-Rhône-Alpes::Loire",
     "Auvergne-Rhône-Alpes::Haute-Savoie",
-    "Auvergne-Rhône-Alpes::Isère"
+    "Auvergne-Rhône-Alpes::Isère",
+    "Auvergne-Rhône-Alpes::Rhône"
   ],
-  "total_scraped": 121257
+  "total_scraped": 136684
 }
