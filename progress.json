@@ -15,7 +15,8 @@
     "Auvergne-Rhône-Alpes::Savoie",
     "Auvergne-Rhône-Alpes::Ain",
     "Auvergne-Rhône-Alpes::Puy-de-Dôme",
-    "Auvergne-Rhône-Alpes::Drôme"
+    "Auvergne-Rhône-Alpes::Drôme",
+    "Auvergne-Rhône-Alpes::Loire"
   ],
-  "total_scraped": 103113
+  "total_scraped": 107411
 }
