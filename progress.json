@@ -10,7 +10,8 @@
     "Île-de-France::Paris",
     "Auvergne-Rhône-Alpes::Cantal",
     "Auvergne-Rhône-Alpes::Haute-Loire",
-    "Auvergne-Rhône-Alpes::Allier"
+    "Auvergne-Rhône-Alpes::Allier",
+    "Auvergne-Rhône-Alpes::Ardèche"
   ],
-  "total_scraped": 86396
+  "total_scraped": 88560
 }
