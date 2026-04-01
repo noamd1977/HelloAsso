@@ -61,7 +61,8 @@
     "Hauts-de-France::Oise",
     "Hauts-de-France::Pas-de-Calais",
     "Hauts-de-France::Nord",
-    "Grand Est::Haute-Marne"
+    "Grand Est::Haute-Marne",
+    "Grand Est::Meuse"
   ],
-  "total_scraped": 314753
+  "total_scraped": 315486
 }
