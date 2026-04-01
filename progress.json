@@ -35,7 +35,8 @@
     "Occitanie::Lozère",
     "Occitanie::Lot",
     "Occitanie::Ariège",
-    "Occitanie::Hautes-Pyrénées"
+    "Occitanie::Hautes-Pyrénées",
+    "Occitanie::Tarn-et-Garonne"
   ],
-  "total_scraped": 183696
+  "total_scraped": 185088
 }
