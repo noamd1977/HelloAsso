@@ -32,7 +32,8 @@
     "Nouvelle-Aquitaine::Charente-Maritime",
     "Nouvelle-Aquitaine::Pyrénées-Atlantiques",
     "Nouvelle-Aquitaine::Gironde",
-    "Occitanie::Lozère"
+    "Occitanie::Lozère",
+    "Occitanie::Lot"
   ],
-  "total_scraped": 179992
+  "total_scraped": 181158
 }
