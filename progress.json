@@ -56,7 +56,8 @@
     "Provence-Alpes-Côte d'Azur::Var",
     "Provence-Alpes-Côte d'Azur::Alpes-Maritimes",
     "Provence-Alpes-Côte d'Azur::Bouches-du-Rhône",
-    "Hauts-de-France::Aisne"
+    "Hauts-de-France::Aisne",
+    "Hauts-de-France::Somme"
   ],
-  "total_scraped": 287705
+  "total_scraped": 290298
 }
