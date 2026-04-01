@@ -73,7 +73,8 @@
     "Grand Est::Bas-Rhin",
     "Bretagne::Côtes-d'Armor",
     "Bretagne::Morbihan",
-    "Bretagne::Finistère"
+    "Bretagne::Finistère",
+    "Bretagne::Ille-et-Vilaine"
   ],
-  "total_scraped": 354486
+  "total_scraped": 363440
 }
