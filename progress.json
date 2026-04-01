@@ -58,7 +58,8 @@
     "Provence-Alpes-Côte d'Azur::Bouches-du-Rhône",
     "Hauts-de-France::Aisne",
     "Hauts-de-France::Somme",
-    "Hauts-de-France::Oise"
+    "Hauts-de-France::Oise",
+    "Hauts-de-France::Pas-de-Calais"
   ],
-  "total_scraped": 293651
+  "total_scraped": 299421
 }
