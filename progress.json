@@ -72,7 +72,8 @@
     "Grand Est::Meurthe-et-Moselle",
     "Grand Est::Bas-Rhin",
     "Bretagne::Côtes-d'Armor",
-    "Bretagne::Morbihan"
+    "Bretagne::Morbihan",
+    "Bretagne::Finistère"
   ],
-  "total_scraped": 348354
+  "total_scraped": 354486
 }
