@@ -63,7 +63,8 @@
     "Hauts-de-France::Nord",
     "Grand Est::Haute-Marne",
     "Grand Est::Meuse",
-    "Grand Est::Ardennes"
+    "Grand Est::Ardennes",
+    "Grand Est::Aube"
   ],
-  "total_scraped": 316519
+  "total_scraped": 317846
 }
