@@ -51,7 +51,8 @@
     "Pays de la Loire::Maine-et-Loire",
     "Pays de la Loire::Loire-Atlantique",
     "Provence-Alpes-Côte d'Azur::Alpes-de-Haute-Provence",
-    "Provence-Alpes-Côte d'Azur::Hautes-Alpes"
+    "Provence-Alpes-Côte d'Azur::Hautes-Alpes",
+    "Provence-Alpes-Côte d'Azur::Vaucluse"
   ],
-  "total_scraped": 256125
+  "total_scraped": 259639
 }
