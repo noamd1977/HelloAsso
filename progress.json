@@ -55,7 +55,8 @@
     "Provence-Alpes-Côte d'Azur::Vaucluse",
     "Provence-Alpes-Côte d'Azur::Var",
     "Provence-Alpes-Côte d'Azur::Alpes-Maritimes",
-    "Provence-Alpes-Côte d'Azur::Bouches-du-Rhône"
+    "Provence-Alpes-Côte d'Azur::Bouches-du-Rhône",
+    "Hauts-de-France::Aisne"
   ],
-  "total_scraped": 285923
+  "total_scraped": 287705
 }
