@@ -74,7 +74,8 @@
     "Bretagne::Côtes-d'Armor",
     "Bretagne::Morbihan",
     "Bretagne::Finistère",
-    "Bretagne::Ille-et-Vilaine"
+    "Bretagne::Ille-et-Vilaine",
+    "Normandie::Orne"
   ],
-  "total_scraped": 363440
+  "total_scraped": 365604
 }
