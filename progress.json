@@ -41,7 +41,8 @@
     "Occitanie::Aveyron",
     "Occitanie::Aude",
     "Occitanie::Tarn",
-    "Occitanie::Pyrénées-Orientales"
+    "Occitanie::Pyrénées-Orientales",
+    "Occitanie::Gard"
   ],
-  "total_scraped": 195832
+  "total_scraped": 200447
 }
