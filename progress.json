@@ -39,7 +39,8 @@
     "Occitanie::Tarn-et-Garonne",
     "Occitanie::Gers",
     "Occitanie::Aveyron",
-    "Occitanie::Aude"
+    "Occitanie::Aude",
+    "Occitanie::Tarn"
   ],
-  "total_scraped": 190407
+  "total_scraped": 192908
 }
