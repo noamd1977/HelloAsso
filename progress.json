@@ -46,7 +46,8 @@
     "Occitanie::Hérault",
     "Occitanie::Haute-Garonne",
     "Pays de la Loire::Mayenne",
-    "Pays de la Loire::Sarthe"
+    "Pays de la Loire::Sarthe",
+    "Pays de la Loire::Vendée"
   ],
-  "total_scraped": 229165
+  "total_scraped": 235327
 }
