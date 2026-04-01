@@ -42,7 +42,8 @@
     "Occitanie::Aude",
     "Occitanie::Tarn",
     "Occitanie::Pyrénées-Orientales",
-    "Occitanie::Gard"
+    "Occitanie::Gard",
+    "Occitanie::Hérault"
   ],
-  "total_scraped": 200447
+  "total_scraped": 209500
 }
