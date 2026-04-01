@@ -50,7 +50,8 @@
     "Pays de la Loire::Vendée",
     "Pays de la Loire::Maine-et-Loire",
     "Pays de la Loire::Loire-Atlantique",
-    "Provence-Alpes-Côte d'Azur::Alpes-de-Haute-Provence"
+    "Provence-Alpes-Côte d'Azur::Alpes-de-Haute-Provence",
+    "Provence-Alpes-Côte d'Azur::Hautes-Alpes"
   ],
-  "total_scraped": 254940
+  "total_scraped": 256125
 }
