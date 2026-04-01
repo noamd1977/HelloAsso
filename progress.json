@@ -68,7 +68,8 @@
     "Grand Est::Vosges",
     "Grand Est::Marne",
     "Grand Est::Haut-Rhin",
-    "Grand Est::Moselle"
+    "Grand Est::Moselle",
+    "Grand Est::Meurthe-et-Moselle"
   ],
-  "total_scraped": 329184
+  "total_scraped": 333141
 }
