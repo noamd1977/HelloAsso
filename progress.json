@@ -65,7 +65,8 @@
     "Grand Est::Meuse",
     "Grand Est::Ardennes",
     "Grand Est::Aube",
-    "Grand Est::Vosges"
+    "Grand Est::Vosges",
+    "Grand Est::Marne"
   ],
-  "total_scraped": 319543
+  "total_scraped": 322451
 }
