@@ -37,7 +37,8 @@
     "Occitanie::Ariège",
     "Occitanie::Hautes-Pyrénées",
     "Occitanie::Tarn-et-Garonne",
-    "Occitanie::Gers"
+    "Occitanie::Gers",
+    "Occitanie::Aveyron"
   ],
-  "total_scraped": 186523
+  "total_scraped": 188123
 }
