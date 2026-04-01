@@ -59,7 +59,8 @@
     "Hauts-de-France::Aisne",
     "Hauts-de-France::Somme",
     "Hauts-de-France::Oise",
-    "Hauts-de-France::Pas-de-Calais"
+    "Hauts-de-France::Pas-de-Calais",
+    "Hauts-de-France::Nord"
   ],
-  "total_scraped": 299421
+  "total_scraped": 314027
 }
