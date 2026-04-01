@@ -45,7 +45,8 @@
     "Occitanie::Gard",
     "Occitanie::Hérault",
     "Occitanie::Haute-Garonne",
-    "Pays de la Loire::Mayenne"
+    "Pays de la Loire::Mayenne",
+    "Pays de la Loire::Sarthe"
   ],
-  "total_scraped": 224258
+  "total_scraped": 229165
 }
