@@ -78,7 +78,8 @@
     "Normandie::Orne",
     "Normandie::Eure",
     "Normandie::Calvados",
-    "Normandie::Manche"
+    "Normandie::Manche",
+    "Normandie::Seine-Maritime"
   ],
-  "total_scraped": 375734
+  "total_scraped": 381658
 }
