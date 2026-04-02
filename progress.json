@@ -79,7 +79,8 @@
     "Normandie::Eure",
     "Normandie::Calvados",
     "Normandie::Manche",
-    "Normandie::Seine-Maritime"
+    "Normandie::Seine-Maritime",
+    "Bourgogne-Franche-Comté::Territoire de Belfort"
   ],
-  "total_scraped": 381658
+  "total_scraped": 382309
 }
