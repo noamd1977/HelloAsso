@@ -75,7 +75,8 @@
     "Bretagne::Morbihan",
     "Bretagne::Finistère",
     "Bretagne::Ille-et-Vilaine",
-    "Normandie::Orne"
+    "Normandie::Orne",
+    "Normandie::Eure"
   ],
-  "total_scraped": 365604
+  "total_scraped": 368048
 }
