@@ -77,7 +77,8 @@
     "Bretagne::Ille-et-Vilaine",
     "Normandie::Orne",
     "Normandie::Eure",
-    "Normandie::Calvados"
+    "Normandie::Calvados",
+    "Normandie::Manche"
   ],
-  "total_scraped": 371788
+  "total_scraped": 375734
 }
