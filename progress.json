@@ -82,7 +82,8 @@
     "Normandie::Seine-Maritime",
     "Bourgogne-Franche-Comté::Territoire de Belfort",
     "Bourgogne-Franche-Comté::Haute-Saône",
-    "Bourgogne-Franche-Comté::Nièvre"
+    "Bourgogne-Franche-Comté::Nièvre",
+    "Bourgogne-Franche-Comté::Jura"
   ],
-  "total_scraped": 384253
+  "total_scraped": 385524
 }
