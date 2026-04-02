@@ -92,7 +92,8 @@
     "Centre-Val de Loire::Cher",
     "Centre-Val de Loire::Loir-et-Cher",
     "Centre-Val de Loire::Eure-et-Loir",
-    "Centre-Val de Loire::Loiret"
+    "Centre-Val de Loire::Loiret",
+    "Centre-Val de Loire::Indre-et-Loire"
   ],
-  "total_scraped": 405606
+  "total_scraped": 409915
 }
