@@ -80,7 +80,8 @@
     "Normandie::Calvados",
     "Normandie::Manche",
     "Normandie::Seine-Maritime",
-    "Bourgogne-Franche-Comté::Territoire de Belfort"
+    "Bourgogne-Franche-Comté::Territoire de Belfort",
+    "Bourgogne-Franche-Comté::Haute-Saône"
   ],
-  "total_scraped": 382309
+  "total_scraped": 383165
 }
