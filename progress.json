@@ -89,7 +89,8 @@
     "Bourgogne-Franche-Comté::Doubs",
     "Bourgogne-Franche-Comté::Côte-d'Or",
     "Centre-Val de Loire::Indre",
-    "Centre-Val de Loire::Cher"
+    "Centre-Val de Loire::Cher",
+    "Centre-Val de Loire::Loir-et-Cher"
   ],
-  "total_scraped": 398298
+  "total_scraped": 399933
 }
