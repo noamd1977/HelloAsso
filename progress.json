@@ -76,7 +76,8 @@
     "Bretagne::Finistère",
     "Bretagne::Ille-et-Vilaine",
     "Normandie::Orne",
-    "Normandie::Eure"
+    "Normandie::Eure",
+    "Normandie::Calvados"
   ],
-  "total_scraped": 368048
+  "total_scraped": 371788
 }
